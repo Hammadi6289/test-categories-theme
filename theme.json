@@ -16,7 +16,21 @@
         "fonts",
         "color",
         "breadcrumb",
-        "section-styles"
+        "section-styles",
+        "filters",
+        "component-fixed-banner",
+        "component-photos-slider",
+        "component-square-photos",
+        "component-parallax-background",
+        "component-fixed-products",
+        "unite-cards-height",
+        "mega-menu",
+        "component-store-features",
+        "component-testimonials",
+        "component-products-slider",
+        "component-featured-products",
+        "menu-images",
+        "component-youtube"
     ],
     "compatibility": {
         "platform_min": "1.0.0",
